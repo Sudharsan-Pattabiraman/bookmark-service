@@ -1,4 +1,4 @@
-package com.spring_example.bookmark_service;
+package com.springexample.bookmarkservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
